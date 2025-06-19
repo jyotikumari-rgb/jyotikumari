@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">🌐 Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
+## 🌐 Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jyoti-kumari-1950a1322">
@@ -50,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyotikumari-rgb&show_icons=true&count_private=true&theme=merko" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotikumari-rgb&layout=compact&theme=merko" height="180px"/>
 </p>
 
 ---
@@ -68,4 +67,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jyotikumari-rgb&theme=merko&hide_border=false" />
 </p>
+
 
